@@ -1,13 +1,12 @@
 ### Hi there my name is Raymond
 
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Raymond, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Virtual Machines and monitoring traffic (ICMP, SSH, DHCP, DNS, RDP)</b>
-  - [VM's & Traffic: Creating Virtual Machines and ](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [VM's & Traffic:](https://github.com/joshmadakorcc/post-install-config)
-  - [VM's & Traffic:](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Traffic Monitoring between Windows and Ubuntu VM (ICMP, SSH, DHCP, DNS, RDP)</b>
+  - [VM's & Traffic: Prerequisites (Creating VM's, Remote Desktop, Installing Wireshark) ](https://github.com/fonsecarp93/osticket-prereqs)
+  - [VM's & Traffic: Observing Traffic](https://github.com/fonsecarp93/post-install-config)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
