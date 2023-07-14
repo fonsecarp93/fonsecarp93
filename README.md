@@ -5,7 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Traffic Monitoring between Windows and Ubuntu VM (ICMP, SSH, DHCP, DNS, RDP)</b>
-  - [VM's & Traffic: Prerequisites (Creating VM's, Remote Desktop, Installing Wireshark) ](https://github.com/fonsecarp93/osticket-prereqs)
+  - [VM's & Traffic: Prerequisites (Creating VM's, Remote Desktop, Installing Wireshark) ](https://github.com/fonsecarp93/VM-s-Traffic-Prerequisites)
   - [VM's & Traffic: Observing Traffic](https://github.com/fonsecarp93/VMs-Traffic-Observing
 )
 
