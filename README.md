@@ -6,7 +6,8 @@
 
 - <b>Traffic Monitoring between Windows and Ubuntu VM (ICMP, SSH, DHCP, DNS, RDP)</b>
   - [VM's & Traffic: Prerequisites (Creating VM's, Remote Desktop, Installing Wireshark) ](https://github.com/fonsecarp93/osticket-prereqs)
-  - [VM's & Traffic: Observing Traffic](https://github.com/fonsecarp93/post-install-config)
+  - [VM's & Traffic: Observing Traffic](https://github.com/fonsecarp93/VMs-Traffic-Observing
+)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
