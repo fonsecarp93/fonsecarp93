@@ -14,8 +14,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/fonsecarp93/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/fonsecarp93/osTicket-Ticket-Lifecycle-Examples)
 - <b>Deploying Active Directory and Creating Users</b>
-  - [Active Directory: Prerequisites and Installation](https://github.com/joshmadakorcc/configure-ad)
-  - [Active Directory: Post-Installation and User Creation](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory: Prerequisites and Installation](https://github.com/fonsecarp93/AD-Prereq-and-Install)
+  - [Active Directory: Post-Installation and User Creation](https://github.com/fonsecarp93/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
